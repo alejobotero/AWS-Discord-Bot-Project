@@ -20,4 +20,5 @@ Once these challenges were resolved, the bot's deployment on the EC2 instance we
 
 ## Reflection and Future Improvements
 
-Looking back, the primary challenge was the complexity of managing secure connections to the EC2 instance. Next time, more focus would be placed on file security and permissions from the start, ensuring that SSH access is seamless. Automating the bot's deployment and management using tools like Docker or AWS Lambda could further improve the process. Additionally, integrating more AWS services like DynamoDB or S3 for storing bot data could enhance th
+Looking back, the primary challenge was the complexity of managing secure connections to the EC2 instance. Next time, more focus would be placed on file security and permissions from the start, ensuring that SSH access is seamless. Automating the bot's deployment and management using tools like Docker or AWS Lambda could further improve the process. Additionally, integrating more AWS services like DynamoDB or S3 for storing bot data could enhance the bot's functionality.
+
